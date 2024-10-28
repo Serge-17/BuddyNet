@@ -29,8 +29,3 @@ To get started with the Buddy Net project, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Serge-17/BuddyNet
-
-
-
-
-
