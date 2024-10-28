@@ -13,6 +13,5 @@ struct BuddyNetApp: App {
         WindowGroup {
             ContentView()
         }
-        //.modelContainer(for: User.self)
     }
 }
