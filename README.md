@@ -1,5 +1,5 @@
 
- <img src="BuddyNet/Assets.xcassets/Screen_1.imageset/Screen_1.png" width="300" />  <img src="BuddyNet/Assets.xcassets/Screen_2.imageset/Screen_2.png" width="300" /> 
+ <img src="BuddyNet/Assets.xcassets/Screen_1.imageset/Screen_1.png" width="400" />            <img src="BuddyNet/Assets.xcassets/Screen_2.imageset/Screen_2.png" width="400" /> 
 
 
 # Buddy Net Project
