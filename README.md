@@ -1,66 +1,37 @@
 
-![TicTacToe](https://github.com/user-attachments/assets/48340cbc-3a82-43a6-a521-b8bf48d43600)
+![BuddyNet](https://github.com/user-attachments/assets/48340cbc-3a82-43a6-a521-b8bf48d43600)
+![BuddyNet]([https://github.com/user-attachments/assets/48340cbc-3a82-43a6-a521-b8bf48d43600](https://github.com/Serge-17/BuddyNet/blob/276d2a2a7893bd366eeda4b30375a439f8d1bded/BuddyNet/Assets.xcassets/Screen_1.imageset/Screen_1.png))
 
-# Tic Tac Toe Project
 
-## Team:
-<p align="left"> 
-<a href="https://github.com/vsvami">
-<img src="https://img.shields.io/badge/Team Leader: vsvami-FF4191"/></a>
-<a href="https://github.com/glbrom">
-<img src="https://img.shields.io/badge/glbrom-36BA98"/></a>
-<a href="https://github.com/SergeyZakurakin">
-<img src="https://img.shields.io/badge/SergeyZakurakin-mediumslateblue"/></a>
-<a href="https://github.com/Serge-17">
-<img src="https://img.shields.io/badge/Serge-17"/></a>
-<a href="https://github.com/elaiten">
-<img src="https://img.shields.io/badge/elaiten-FF6969"/></a>
-</p>
+# Buddy Net Project
 
-## Stack:
-- Swift 5
-- SwiftUI
-- AppStorage
-- AVFoundation
-- MVVM
-- Min version iOS 15.0
-
-Welcome to the Tic Tac Toe project! This is a simple implementation of the classic game, designed for both educational purposes and entertainment. Below is a detailed README.md file that outlines the project, its features, installation instructions, usage, and an overview of the code.
 
 ## Introduction
 
-Tic Tac Toe is a two-player game where players take turns marking a square on a 3x3 grid. The objective is to be the first to get three of their marks in a row: horizontally, vertically, or diagonally. This project demonstrates a simple implementation of the game with multiple modes.
+Buddy Net is an iOS application built using SwiftUI that fetches and displays user data from a JSON API. The app demonstrates the use of URLSession for network requests and Codable for parsing JSON data into Swift types. It also utilizes NavigationStack and List to present the information in a user-friendly format.
 
 ## Features
 
-- **Main Screen:**
-  - Buttons for "Let's play," "How to play," and "Settings."
-- **Select Game Screen:** Contains two buttons - "Single Player" and "Two Player."
-  - The "Single Player" mode leads to the game screen against AI.
-  - The "Two Player" mode leads to the game screen with a friend.
-- **Game Page:**
-  - Displays which player's turn it is (always X when playing against AI).
-  - Shows a timer in the middle when playing against time.
-  - Indicates whose turn it is above the game board.
-  - Winning combinations are crossed out with a line.
-  - In "Two Player" mode, you need to pass the phone to your friend for their turn.
-- **Game Result Screen:**
-  - Three possible outcomes: win, lose, or draw.
-  - The "Back" button returns to the Select Game screen.
-  - The "Play Again" button restarts the game in the previously selected mode.
-- **Settings Screen:**
-  - Allows you to set a time limit for the game and its duration.
-  - Customize the appearance of Xs and Os (from available options) using the "Choose" button. Current selection is marked as Picked.
-- **How to Play Screen:**
-  - Displays the rules of the game.
-- **Leaderboard:**
-  - The Leaderboard feature tracks player performance in Tic Tac Toe, ranking players based on the fastest game completion times.
+- **User Data Fetching:**
+  - Downloads user data from a remote JSON source.
+- **Data Modeling:** 
+  - Implements User and Friend structs to represent user information and friendships.
+- **List Display:**
+  - Uses NavigationStack for seamless navigation between views.
+- **Navigation:**
+  - Presents user data in a structured list format.
+
+
 
 ## Installation
 
-To get started with the Tic Tac Toe project, follow these steps:
+To get started with the Buddy Net project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/glbrom/TicTacToe.git
+   git clone https://github.com/Serge-17/BuddyNet
+
+
+
+
 
