@@ -1,29 +1,8 @@
 
-![TicTacToe](https://github.com/user-attachments/assets/48340cbc-3a82-43a6-a521-b8bf48d43600)
+![BuddyNet](https://github.com/user-attachments/assets/48340cbc-3a82-43a6-a521-b8bf48d43600)
 
-# Tic Tac Toe Project
+# Buddy Net Project
 
-## Team:
-<p align="left"> 
-<a href="https://github.com/vsvami">
-<img src="https://img.shields.io/badge/Team Leader: vsvami-FF4191"/></a>
-<a href="https://github.com/glbrom">
-<img src="https://img.shields.io/badge/glbrom-36BA98"/></a>
-<a href="https://github.com/SergeyZakurakin">
-<img src="https://img.shields.io/badge/SergeyZakurakin-mediumslateblue"/></a>
-<a href="https://github.com/Serge-17">
-<img src="https://img.shields.io/badge/Serge-17"/></a>
-<a href="https://github.com/elaiten">
-<img src="https://img.shields.io/badge/elaiten-FF6969"/></a>
-</p>
-
-## Stack:
-- Swift 5
-- SwiftUI
-- AppStorage
-- AVFoundation
-- MVVM
-- Min version iOS 15.0
 
 ## Introduction
 
