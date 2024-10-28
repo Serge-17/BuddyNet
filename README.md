@@ -1,6 +1,5 @@
 
-![BuddyNet](https://github.com/user-attachments/assets/48340cbc-3a82-43a6-a521-b8bf48d43600)
-![BuddyNet]([https://github.com/user-attachments/assets/48340cbc-3a82-43a6-a521-b8bf48d43600](https://github.com/Serge-17/BuddyNet/blob/276d2a2a7893bd366eeda4b30375a439f8d1bded/BuddyNet/Assets.xcassets/Screen_1.imageset/Screen_1.png))
+ <img src="BuddyNet/Assets.xcassets/Screen_1.imageset/Screen_1.png" width="300" /> 
 
 
 # Buddy Net Project
